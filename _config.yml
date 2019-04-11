@@ -16,7 +16,7 @@ author:  # change following line to your infomation.
   last_name: ZHANG  # Be used at index page about me section.
   avatar: /static/assets/img/landing/IMG_1553的副本.jpg  # upload your avatar at directory and edit it.
   github_username: troyzhangchu  # Leave blank if you don't have now
-  linkedin_id: 张川 # Leave blank if you don't have now
+  linkedin_id:张川 复旦大学 # Leave blank if you don't have now
   facebook_username: Chuan Zhang  # Leave blank if you don't have now
   #twitter_username: # Leave blank if you don't have now
   email: troyzc@yahoo.com  # Leave blank if you don't have now
@@ -32,12 +32,12 @@ author:  # change following line to your infomation.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+  # name: jalpc
 
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  id: UA-93473370-3
+  # id: UA-93473370-3
 
 ## google optimize
 go:
