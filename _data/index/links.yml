@@ -1,9 +1,9 @@
 # links section data
-- last_name: 川
-  first_name: 张
+- last_name: 张
+  first_name: 川
   desc: 中文
   website: troyzhangchu.github.io/cn
-#   email: ceo@google.com
+  email: 16307110288@fudan.edu.cn
 
 # - last_name: Donate
 #   first_name: Jalpc
