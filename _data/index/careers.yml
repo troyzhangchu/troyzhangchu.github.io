@@ -27,31 +27,3 @@
     detail: Science Student
     i18n: en
   icon: fa-plus-square
-  
-  - name:
-    detail: 复旦大学
-    i18n: zh
-  desc:
-    detail: First 2 years learning physics, and starting to learn data science from my junior.
-    i18n: zh
-  date:
-    detail: 2016-09 ~ 2020-07
-    i18n: zh
-  job:
-    detail: Undergraduate
-    i18n: zh
-  icon: fa-plus-square
-
-- name:
-    detail: 重庆南开中学
-    i18n: zh
-  desc:
-    detail: 
-    i18n: zh
-  date:
-    detail: 2013-09 ~ 2016-07
-    i18n: zh
-  job:
-    detail: Science Student
-    i18n: zh
-  icon: fa-plus-square
