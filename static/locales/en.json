@@ -1,6 +1,6 @@
 {
   "website":{
-    "title": "Jack's blog"
+    "title": "Troy's blog"
   },
   "nav":{
     "home": "Home",
@@ -13,16 +13,16 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+    "des": "A man loves all the food.(This website is constructing...)"
   },
   "skills":{
     "my_skills": "My Skills"
   },
   "projects":{
     "my_projects": "My Projects",
-    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
-    "familycode": "This is another project."
+    "jalpc": "This project is other's project. I use javescript to get repo's information all my repos have only one request.",
+    "cpython": "This project is also other's project. I use another request to get repo's information.",
+    "familycode": "This is another other's project."
   },
   "career":{
     "my_career": "My Career",
