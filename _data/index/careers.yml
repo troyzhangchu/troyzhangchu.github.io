@@ -2,28 +2,28 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: Fudan University
-    i18n: en
+    i18n: fudan
   desc:
     detail: First 2 years learning physics, and starting to learn data science from my junior.
-    i18n: en
+    i18n: fudan_des
   date:
     detail: 2016-09 ~ 2020-07
-    i18n: en
+    i18n: fudan_date
   job:
     detail: Undergraduate
-    i18n: en
+    i18n: fudan_job
   icon: fa-plus-square
 
 - name:
     detail: Chongqing Nankai Secondary School
-    i18n: en
+    i18n: nankai
   desc:
     detail: 
-    i18n: en
+    i18n: nankai_des
   date:
     detail: 2013-09 ~ 2016-07
-    i18n: en
+    i18n: nankai_date
   job:
     detail: Science Student
-    i18n: en
+    i18n: nankai_job
   icon: fa-plus-square
