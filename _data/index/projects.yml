@@ -6,7 +6,7 @@
 - name: One Shot Learning
   i18n: oneshot
   gh_user: troyzhangchu
-	repo: One-shot-learning
+  repo: One-shot-learning
   img: /static/assets/img/landing/python.png
   desc: This project is my project for the final of course Maching Learning.
 
