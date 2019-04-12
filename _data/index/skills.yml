@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, R, Data Mining, Statistics, Machine Learing, English, Eating and Sleeping
-percentage: 70, 70, 75, 75, 65, 80, 100
+aspects: Python, R, Eating,Data Mining, Statistics, Machine Learing, English, 
+percentage: 75, 70, 100, 75, 80, 65, 85
